@@ -1,3 +1,5 @@
+# DATA WEAR HOUSE
+
 * Data warehouses support business intelligence activities such as reporting, analysis, and data mining by providing a centralized repository of data.
 * They are often used to support decision-making processes in organizations.
 * Data warehouses are designed to store large volumes of data over long periods of time.
