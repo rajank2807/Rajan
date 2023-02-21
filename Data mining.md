@@ -1,3 +1,5 @@
+# DATA MINING 
+
 * Data mining is the process of discovering patterns and insights from large datasets.
 
 * The goal of data mining is to extract useful and actionable information from data.
